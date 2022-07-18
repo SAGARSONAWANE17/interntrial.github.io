@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.sidebar{
+    background-image: url(https://media.istockphoto.com/photos/desk-lamp-with-spotlight-black-background-with-copyspace-picture-id1355537743?b=1&k=20&m=1355537743&s=170667a&w=0&h=yYjomC3y_ekyby0bNxb8ADPB5Kbfz0qK_C_UOX_xud8=);
+    width: 9%;
+    color: rgb(186, 165, 46);
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: larger;
+    padding: 20px;
+}
+
+.control{
+    color: aqua;
+    font-size: small;
+}
+
+.main{
+    background-image:url(https://i.pinimg.com/736x/fb/4f/22/fb4f221a3b1509a6ef7fc5238ecb514f.jpg);
+    color: rgb(60, 52, 4);
+    width: 91%;
+    font-family: 'Kaushan Script', cursive;
+    font-size: xx-large ;
+}
+.main a{
+    width: auto;
+    margin: 300px;
+}
+.combine{
+    display: flex;
+}
+
+.navigation{
+    background-color:rgb(207, 228, 222);
+    color: black;
+    font-family: 'Shadows Into Light', cursive;
+}
+.afternav{
+    background-image: url(https://media-exp2.licdn.com/dms/image/C4E16AQEe-N7xgeAkgQ/profile-displaybackgroundimage-shrink_350_1400/0/1626204323961?e=1663804800&v=beta&t=KOQBbNRSntIgqCVo_VncPwe-5s0CUSY1gTKXe-GtLOs);
+    width: 1700;
+    height: 280px;
+    margin:0px;
+}
+.afternav ul{
+    margin-left: auto;
+    width:fit-content ;
+
+}
+.aboutme{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/003/321/383/original/abstract-pink-background-pink-modern-shapes-background-vector.jpg);
+    margin: 3px;
+    padding: 20px;
+}
+.button button{
+    border-radius: 25px;
+}
+
+.navigation button{
+    border-radius: 50px;
+    padding: 1px;
+    border-color: aqua;
+    font-size: larger;
+    font-style: italic;
+}
+.sagar{
+    color: rgb(79, 52, 10);
+    font-family: 'Dancing Script', cursive;
+    font-size: large;
+    padding: 20px;
+}
+.tech{
+    
+    color: rgb(56, 11, 11);
+    font-family: 'Lobster', cursive;
+}
+.photo{
+    margin: 10px;
+    width: 1200px;
+}
+.afternav li{
+    list-style-type: none;
+}
